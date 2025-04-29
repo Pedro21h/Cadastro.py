@@ -1,6 +1,8 @@
 #Fatores Primos
-( OBJETIVO: Uma função em python para encontrar números primos de um determinado número, e volta uma lista de todos os números primos do número recebido)
-//
+
+(OBJETIVO: Uma função em python para encontrar números primos de um determinado número, e volta uma lista de todos os números primos do número recebido)
+
+
 def fatores_primos(num):
     fatores = []
     divisores = 2
@@ -13,6 +15,7 @@ def fatores_primos(num):
     return fatores
 
 #chamda da função:
+
 num = int(input('digite um numero: '))
 print (f'os fatores de {num} é {fatores_primos(num)}')
-//
+
