@@ -1,6 +1,6 @@
-#Fatores Primos
+#Repositorios de projetos em Python
 
-(OBJETIVO: Uma função em python para encontrar números primos de um determinado número, e volta uma lista de todos os números primos do número recebido)
+Mini projeto para demonstrar meu aprendizado em python. todo conhecimento que adiquiri foi pelo ("curso de python - Mundo 01")
 
 
 
