@@ -1,6 +1,6 @@
 # Sistema de cadastro
-Mini projeto para demonstrar meu aprendizado em python, 
-Projte em Python utilizando SQLite e TKinter
+Sistema para demonstrar meu aprendizado em python, 
+Projeto em Python utilizando SQLite e TKinter
 
 
 
